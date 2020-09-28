@@ -2,7 +2,7 @@
 ## JavaScript, PHP, SQL, HTML, CSS
 ### https://www.youtube.com/watch?v=zxwSP8K2APo
 
-Group Project
+Group project for the COMP0022 module 'Databases and Information Management Systems'.
 
 An AMP-based web application for buying and selling mythical pets.
 
@@ -19,5 +19,3 @@ An AMP-based web application for buying and selling mythical pets.
 2) To initialise correlations for personalised recommendations run (once) private/scheduled/category-correlations.py
 
 This must be configured for your version of XAMPP/ WAMP/ MAMP (currently configured for MAMP). To do this edit "unix_socket='/Applications/MAMP/tmp/mysql/mysql.sock'" to select the directory and file of your mysql.sock
-
-
